@@ -1,9 +1,15 @@
 [g++ needed](https://code.visualstudio.com/docs/cpp/config-mingw)
+
 [nvim needed](https://github.com/neovim/neovim/releases/tag/stable)
+
 [git needed](https://git-scm.com/downloads)
-import kickstart into nvim  `git clone https://github.com/sudosign/nvimProf.nvim.git %userprofile%\AppData\Local\nvim\`
+
+import kickstart into nvim  
+```
+git clone https://github.com/sudosign/nvimProf.nvim.git %userprofile%\AppData\Local\nvim\
+```
 kickstart/tutorial  
-  1. most important(includes others in order and for learning this kickstart): `:e $MYVIMRC `
+  1. most important(includes others in order and for learning this kickstart): `:e $MYVIMRC`
   2. helpful for learning nvim: `:Tutor`
   3. helpful for learning docs: `:help`
 
